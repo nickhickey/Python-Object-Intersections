@@ -1,6 +1,4 @@
 #Author: Nicholas Hickey
-#IMD 3002 
-#Assignment 01
 
 import maya.cmds as cmds
 import math
